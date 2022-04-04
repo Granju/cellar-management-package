@@ -6,7 +6,7 @@ This project has been developed as part of my data science training, so its main
 
 ## Links
 https://github.com/Granju/cellar-management-package.git hosts the package on github.
-is the address of the package on PyPI.
+https://pypi.org/project/cellar-management/ is the address of the package on PyPI.
 
 ## Installing the package
 

@@ -5,5 +5,5 @@ setup(name='cellar_management',
       description='Simple cellar management tool',
       author="Julien Flandre",
       author_email="julien.flandre@gmail.com",
-      packages=['cellar_management'],
+      packages=['cellar_management_package'],
       zip_safe=False)
